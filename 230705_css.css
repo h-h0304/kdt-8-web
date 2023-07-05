@@ -1,0 +1,140 @@
+/* * {
+  color: white;
+  background-color: gray;
+}
+
+span {
+  background-color: red;
+}
+
+.second {
+  background-color: green;
+}
+
+#first {
+  background-color: blue;
+} */
+
+/* span.orange {
+  color: red;
+}
+
+ul > .orange {
+  background-color: gray;
+}
+
+ul .orange {
+  font-weight: bold;
+}
+
+.orange + li {
+  font-size: 30px;
+}
+
+.orange ~ li {
+  color: green;
+} */
+
+/* .lion {
+  color: sienna;
+}
+
+ul > span.lion {
+  font-weight: bold;
+  background-color: greenyellow;
+}
+
+span.lion + li {
+  font-weight: bold;
+  background-color: greenyellow;
+}
+
+#tiger {
+  background-color: yellow;
+}
+
+#tiger + li {
+  background-color: skyblue;
+}
+
+.zoo + p {
+  background-color: red;
+}
+
+ul > li.lion ~ li {
+  background-color: orange;
+}
+
+h1:hover {
+  color: red;
+}
+
+a:active {
+  background-color: blue;
+}
+
+input:focus {
+  background-color: orange;
+} */
+/* 
+.fruits span:first-child {
+  color: red;
+}
+
+.fruits div:first-child {
+  color: blue;
+}
+
+.fruits h3:last-child {
+  text-decoration: underline;
+}
+
+.fruits p:last-child {
+  color: green;
+} */
+
+/* .fruits *:not(span) {
+  color: aqua;
+} */
+
+/* 
+.stripes *:nth-child(2n-1) {
+  color: white;
+  background-color: navy;
+}
+
+.stripes *:nth-child(2n) {
+  background-color: yellow;
+} */
+
+/* .fruits::before {
+  content: "과일 목록 시작";
+}
+
+.fruits::after {
+  content: "과일 목록 끝";
+} */
+
+/* .box::before {
+  content: "택시";
+}
+
+.box::after {
+  content: "빨리";
+} */
+
+input[disabled] {
+  background-color: red;
+}
+
+input[placeholder="이름"] {
+  background-color: orange;
+}
+
+input[type="password"] {
+  background-color: blue;
+}
+
+input:not([placeholder]) {
+  background-color: blue;
+}
